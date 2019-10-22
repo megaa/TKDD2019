@@ -1,10 +1,26 @@
 # Code for TKDD2019 work
 
+## Introduction
+This is a demonstration for the experiments in the paper "Budget-Constrained Real-Time Bidding Optimization: 
+Multiple Predictors Make It Better".
+
 ## Prerequisites
 
-* R 3.4.4
+* R version >= 3.4.4 with the following packages installed: 
+```
+magrittr
+dplyr
+data.table
+Matrix
+FeatureHashing
+stringr
+```
 * Python 2.7
 
+## Test Steps
+1. Clone this repository into your home directory (`~/TKDD2019/`)
+2. In `~/TKDD2019/db.data/CV1/`, `tar zxvf 2259-1.tgz; tar zxvf 2259-2.tgz`
+3. In `~/TKDD2019/db.data/`, run `./CVsimple.sh`
 
 ## Expected Results
 ```
