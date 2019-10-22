@@ -1,7 +1,7 @@
 suppressPackageStartupMessages(library("magrittr"))
 suppressPackageStartupMessages(library("dplyr"))
 suppressPackageStartupMessages(library("data.table"))
-suppressPackageStartupMessages(library("ggplot2"))
+#suppressPackageStartupMessages(library("ggplot2"))
 suppressPackageStartupMessages(library("Matrix"))
 suppressPackageStartupMessages(library("FeatureHashing"))
 
