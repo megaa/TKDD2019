@@ -49,3 +49,6 @@ PRUD2 lift = 144
 PRUD2 lift  144, bf 5.387279E-06: nImp 201440, Clk 18 Cost 303790 BLeft 137.83
 PRUD2 lift  144, bf 5.387280E-06: nImp 201440, Clk 18 Cost 303790 BLeft 137.83
 ```
+
+## Copyright Notices
+This project reuses a part (namely, CTR predictor) from the work of Weinan Zhang (https://github.com/wnzhang/optimal-rtb) under the Apache 2.0 license.
